@@ -1,0 +1,7 @@
+<resources>
+    <string name="go_to_title">Отправляемся в</string>
+    <string name="find_place">Найти место</string>
+
+    <string name="category_places">Места</string>
+    <string name="category_routes">Маршруты</string>
+</resources>
